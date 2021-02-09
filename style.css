@@ -19,6 +19,7 @@ body {
 
 .card1, .card2, .card3, .card4, .card5, .card-body {
     background-color:  #80ced6;
-    font: bold;
+    font-weight: bold;
+    font-size: large;
 }
 
