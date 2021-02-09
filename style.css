@@ -1,0 +1,24 @@
+.navbar {
+font-weight: bold;
+display: flexbox;
+justify-content: center;
+font-size: 40px;
+}
+
+.bg-light {
+    background-color:#80ced6!important;
+        color: whitesmoke;
+    }
+
+
+body {
+    background-image: url("weather.jpg");
+    background-size: cover;
+}
+
+
+.card1, .card2, .card3, .card4, .card5, .card-body {
+    background-color:  #80ced6;
+    font: bold;
+}
+
